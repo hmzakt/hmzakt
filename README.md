@@ -1,10 +1,7 @@
-- 👋 Hi there, I’m Md Hamza Akhtar.
+Hi there, I’m Md Hamza Akhtar.
   
-   I am an aspiring software developer currently pursuing a B.Tech degree in CSE at Jaypee institute of Information Technology based in Noida, India
-- 👀 Currently I am focusing on WebDevelopment with special focus on HTML, CSS, JS, React and I am keen to complete it with hands on projects
+"Passionate frontend developer with a strong command of React, C++, and modern web technologies. Experienced in building dynamic, responsive, and user-friendly applications with a keen eye for design and performance. Continuously learning and evolving to stay ahead in the ever-changing tech landscape."
 
-  Also I am learning Data Strucrture and Algorithms in C++ aiming to strengthen my problem solving skills.
-- 💞️ I’m looking to collaborate on related Open source projects in Github
 - 📫 How to reach me
 
   LinkedIn - www.linkedin.com/in/hmzakt

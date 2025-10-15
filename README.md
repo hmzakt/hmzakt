@@ -1,6 +1,6 @@
-Hi there, I’m Md Hamza Akhtar.
-  
-"Passionate frontend developer with a strong command of React, C++, and modern web technologies. Experienced in building dynamic, responsive, and user-friendly applications with a keen eye for design and performance. Continuously learning and evolving to stay ahead in the ever-changing tech landscape."
+You can call me Hmz.  
+The more I learn coding the more i know that there is much more to learn.  
+I aim to use technology to solve problems and make life easier. Maybe I can, Maybe I can't. I will never know If I don't try.
 
 - 📫 How to reach me
 
